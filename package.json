@@ -4,16 +4,16 @@
   "description": "A custom svg icon font/library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "font:generate": "./node_modules/.bin/icon-font-generator assets/svg/*.svg -o dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/railroadmedia/icons.git"
-  },
+  "repository": "git+https://github.com/railroadmedia/icons.git",
   "author": "Curtis Conway",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/railroadmedia/icons/issues"
   },
-  "homepage": "https://github.com/railroadmedia/icons#readme"
+  "homepage": "https://github.com/railroadmedia/icons#readme",
+  "devDependencies": {
+    "icon-font-generator": "^2.1.10"
+  }
 }
