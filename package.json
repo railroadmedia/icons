@@ -1,0 +1,19 @@
+{
+  "name": "@musora/icons",
+  "version": "0.0.1",
+  "description": "A custom svg icon font/library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/railroadmedia/icons.git"
+  },
+  "author": "Curtis Conway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/railroadmedia/icons/issues"
+  },
+  "homepage": "https://github.com/railroadmedia/icons#readme"
+}
