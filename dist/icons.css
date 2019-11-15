@@ -1,0 +1,254 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?5bcac07178752e4c5d586169baf3a46c?#iefix") format("embedded-opentype"),
+url("./icons.woff2?5bcac07178752e4c5d586169baf3a46c") format("woff2"),
+url("./icons.woff?5bcac07178752e4c5d586169baf3a46c") format("woff"),
+url("./icons.ttf?5bcac07178752e4c5d586169baf3a46c") format("truetype"),
+url("./icons.svg?5bcac07178752e4c5d586169baf3a46c#icons") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-CD:before {
+    content: "\f101";
+}
+.icon-add-to-list:before {
+    content: "\f102";
+}
+.icon-airplay:before {
+    content: "\f103";
+}
+.icon-applause:before {
+    content: "\f104";
+}
+.icon-approved-teacher:before {
+    content: "\f105";
+}
+.icon-archive:before {
+    content: "\f106";
+}
+.icon-archive2:before {
+    content: "\f107";
+}
+.icon-background-check:before {
+    content: "\f108";
+}
+.icon-bass:before {
+    content: "\f109";
+}
+.icon-blank-song:before {
+    content: "\f10a";
+}
+.icon-blank-staff:before {
+    content: "\f10b";
+}
+.icon-blog:before {
+    content: "\f10c";
+}
+.icon-camera:before {
+    content: "\f10d";
+}
+.icon-chat:before {
+    content: "\f10e";
+}
+.icon-check:before {
+    content: "\f10f";
+}
+.icon-chords-scales-guitareo:before {
+    content: "\f110";
+}
+.icon-chords-scales-icon:before {
+    content: "\f111";
+}
+.icon-clock:before {
+    content: "\f112";
+}
+.icon-courses:before {
+    content: "\f113";
+}
+.icon-dft:before {
+    content: "\f114";
+}
+.icon-dictionary-drum-terms:before {
+    content: "\f115";
+}
+.icon-download:before {
+    content: "\f116";
+}
+.icon-drumeo-edge:before {
+    content: "\f117";
+}
+.icon-drums:before {
+    content: "\f118";
+}
+.icon-drums2:before {
+    content: "\f119";
+}
+.icon-edit:before {
+    content: "\f11a";
+}
+.icon-experience-points:before {
+    content: "\f11b";
+}
+.icon-faculty-teacher:before {
+    content: "\f11c";
+}
+.icon-forum:before {
+    content: "\f11d";
+}
+.icon-free:before {
+    content: "\f11e";
+}
+.icon-fullscreen:before {
+    content: "\f11f";
+}
+.icon-gear:before {
+    content: "\f120";
+}
+.icon-getting-started:before {
+    content: "\f121";
+}
+.icon-giveaways:before {
+    content: "\f122";
+}
+.icon-go-to:before {
+    content: "\f123";
+}
+.icon-grid:before {
+    content: "\f124";
+}
+.icon-guitar:before {
+    content: "\f125";
+}
+.icon-guitareo:before {
+    content: "\f126";
+}
+.icon-hammer:before {
+    content: "\f127";
+}
+.icon-headphones:before {
+    content: "\f128";
+}
+.icon-home:before {
+    content: "\f129";
+}
+.icon-info:before {
+    content: "\f12a";
+}
+.icon-laptop:before {
+    content: "\f12b";
+}
+.icon-learning-paths:before {
+    content: "\f12c";
+}
+.icon-legacy:before {
+    content: "\f12d";
+}
+.icon-library:before {
+    content: "\f12e";
+}
+.icon-live:before {
+    content: "\f12f";
+}
+.icon-loop:before {
+    content: "\f130";
+}
+.icon-loops:before {
+    content: "\f131";
+}
+.icon-metronome-beep:before {
+    content: "\f132";
+}
+.icon-metronome:before {
+    content: "\f133";
+}
+.icon-new-window:before {
+    content: "\f134";
+}
+.icon-notation-key:before {
+    content: "\f135";
+}
+.icon-note:before {
+    content: "\f136";
+}
+.icon-notifications:before {
+    content: "\f137";
+}
+.icon-packs:before {
+    content: "\f138";
+}
+.icon-piano:before {
+    content: "\f139";
+}
+.icon-pianote:before {
+    content: "\f13a";
+}
+.icon-play-alongs:before {
+    content: "\f13b";
+}
+.icon-podcast:before {
+    content: "\f13c";
+}
+.icon-print:before {
+    content: "\f13d";
+}
+.icon-recordeo:before {
+    content: "\f13e";
+}
+.icon-resources:before {
+    content: "\f13f";
+}
+.icon-rudiments:before {
+    content: "\f140";
+}
+.icon-satellite:before {
+    content: "\f141";
+}
+.icon-schedule:before {
+    content: "\f142";
+}
+.icon-search:before {
+    content: "\f143";
+}
+.icon-shows:before {
+    content: "\f144";
+}
+.icon-shows2:before {
+    content: "\f145";
+}
+.icon-songs:before {
+    content: "\f146";
+}
+.icon-sort:before {
+    content: "\f147";
+}
+.icon-student-focus:before {
+    content: "\f148";
+}
+.icon-student:before {
+    content: "\f149";
+}
+.icon-teacher:before {
+    content: "\f14a";
+}
+.icon-toolbox:before {
+    content: "\f14b";
+}
+.icon-tools:before {
+    content: "\f14c";
+}
+.icon-vocals:before {
+    content: "\f14d";
+}
+.icon-wrench:before {
+    content: "\f14e";
+}
