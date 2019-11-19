@@ -5,5 +5,5 @@ deploy:
   secret_access_key: $AWS_SECRET_KEY
   bucket: "musora-icons"
   region: us-east-1
-  upload-dir: $TRAVIS_NODE_VERSION
+  upload-dir: $TRAVIS_BUILD_NUMBER
   acl: public_read
