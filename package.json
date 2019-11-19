@@ -14,7 +14,6 @@
   },
   "homepage": "https://github.com/railroadmedia/icons#readme",
   "devDependencies": {
-    "icon-font-generator": "^2.1.10",
-    "node-server-screenshot": "^0.2.3"
+    "icon-font-generator": "^2.1.10"
   }
 }
