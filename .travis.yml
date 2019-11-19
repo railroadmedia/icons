@@ -7,3 +7,5 @@ deploy:
   region: us-east-1
   upload-dir: $TRAVIS_TAG
   acl: public_read
+  on:
+    tags: true
