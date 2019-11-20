@@ -1,6 +1,6 @@
 {
   "name": "@musora/icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom svg icon font/library",
   "main": "index.js",
   "scripts": {
