@@ -33,9 +33,10 @@ import '@musora/icons/dist/icons.css';
 
 #### Using the SVGs in React Native
 
-1. Install the [react-native-svg](https://github.com/react-native-community/react-native-svg) package
-2. Install the [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) package
-3. In your `metro.config.js` file, add the following transformer:
+1. Install the package from NPM or Yarn `npm install @musora/icons` or `yarn install @musora/icons`
+2. Install the [react-native-svg](https://github.com/react-native-community/react-native-svg) package
+3. Install the [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) package
+4. In your `metro.config.js` file, add the following transformer:
 ```javascript
 const { getDefaultConfig } = require('metro-config');
 
