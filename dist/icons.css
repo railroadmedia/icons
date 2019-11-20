@@ -1,13 +1,13 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?1904605a726c125b5592b8c23837019f?#iefix") format("embedded-opentype"),
-url("./icons.woff2?1904605a726c125b5592b8c23837019f") format("woff2"),
-url("./icons.woff?1904605a726c125b5592b8c23837019f") format("woff"),
-url("./icons.ttf?1904605a726c125b5592b8c23837019f") format("truetype"),
-url("./icons.svg?1904605a726c125b5592b8c23837019f#icons") format("svg");
+    src: url("./icons.eot?e2d8280be2440ef3785d762039e7eff5?#iefix") format("embedded-opentype"),
+url("./icons.woff2?e2d8280be2440ef3785d762039e7eff5") format("woff2"),
+url("./icons.woff?e2d8280be2440ef3785d762039e7eff5") format("woff"),
+url("./icons.ttf?e2d8280be2440ef3785d762039e7eff5") format("truetype"),
+url("./icons.svg?e2d8280be2440ef3785d762039e7eff5#icons") format("svg");
 }
 
-i[class^="icon-"]:before, i[class*=" icon-"]:before {
+i[class^="icon-"], i[class*=" icon-"] {
     font-family: icons !important;
     font-style: normal;
     font-weight: normal !important;
