@@ -4,7 +4,7 @@
   "description": "A custom svg icon font/library",
   "main": "index.js",
   "scripts": {
-    "font:generate": "./node_modules/.bin/icon-font-generator assets/svg/*.svg -o dist"
+    "font:generate": "./node_modules/.bin/icon-font-generator assets/svg/*.svg -o dist --csstp ./assets/css.hbs"
   },
   "repository": "git+https://github.com/railroadmedia/icons.git",
   "author": "Curtis Conway",
