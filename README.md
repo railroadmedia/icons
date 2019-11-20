@@ -64,16 +64,9 @@ import CourseIcon from '@musora/icons/assets/svg/courses.svg';
 
 ## Adding New Icons
 
-- Make sure your svg is a 100x100 square and place it in the assets/svg directory
-- Run the above command
-
-Install the dependencies
-
-`yarn install`
-
-Generate the Font
-
-`yarn font:generate`
+1. Make sure your svg is a 100x100 square and place it in the assets/svg directory
+2. Install the dependencies - `yarn install`
+3. Generate the Font - `yarn font:generate`
 
 ## Deployment to S3
 
