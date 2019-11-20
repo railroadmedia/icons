@@ -1,6 +1,8 @@
 # Icons - @musora/icons
 A custom svg icon font/library
 
+[![Build Status](https://travis-ci.com/railroadmedia/icons.png?branch=master)](https://travis-ci.com/railroadmedia/icons)
+
 ## Usage
 
 #### Loading From a CDN
