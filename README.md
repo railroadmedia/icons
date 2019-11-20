@@ -25,9 +25,18 @@ A custom svg icon font/library
 or
 `yarn install @musora/icons`
 
+Using a Javascript file:
 ```javascript
 import '@musora/icons/dist/icons.css';
 ```
+
+Using a CSS file:
+```css
+@import '~@musora/icons/dist/icons.css';
+```
+
+Keep in mind that your webpack config will need to have the relevant file loaders.
+Webpack should give you warnings/errors regarding the loaders you need.
 
 <hr>
 
