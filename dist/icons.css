@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?8dafe0eeca2bd95f8a5d69f464ea5a13?#iefix") format("embedded-opentype"),
-url("./icons.woff2?8dafe0eeca2bd95f8a5d69f464ea5a13") format("woff2"),
-url("./icons.woff?8dafe0eeca2bd95f8a5d69f464ea5a13") format("woff"),
-url("./icons.ttf?8dafe0eeca2bd95f8a5d69f464ea5a13") format("truetype"),
-url("./icons.svg?8dafe0eeca2bd95f8a5d69f464ea5a13#icons") format("svg");
+    src: url("./icons.eot?28b9a4cc8116a64c5667e2d7faa4776d?#iefix") format("embedded-opentype"),
+url("./icons.woff2?28b9a4cc8116a64c5667e2d7faa4776d") format("woff2"),
+url("./icons.woff?28b9a4cc8116a64c5667e2d7faa4776d") format("woff"),
+url("./icons.ttf?28b9a4cc8116a64c5667e2d7faa4776d") format("truetype"),
+url("./icons.svg?28b9a4cc8116a64c5667e2d7faa4776d#icons") format("svg");
 }
 
 i[class^="icon-"], i[class*=" icon-"] {
@@ -114,153 +114,156 @@ i[class^="icon-"], i[class*=" icon-"] {
 .icon-forum:before {
     content: "\f120";
 }
-.icon-free:before {
+.icon-foundations:before {
     content: "\f121";
 }
-.icon-fullscreen:before {
+.icon-free:before {
     content: "\f122";
 }
-.icon-gear:before {
+.icon-fullscreen:before {
     content: "\f123";
 }
-.icon-getting-started:before {
+.icon-gear:before {
     content: "\f124";
 }
-.icon-giveaways:before {
+.icon-getting-started:before {
     content: "\f125";
 }
-.icon-go-to:before {
+.icon-giveaways:before {
     content: "\f126";
 }
-.icon-grid:before {
+.icon-go-to:before {
     content: "\f127";
 }
-.icon-guitar:before {
+.icon-grid:before {
     content: "\f128";
 }
-.icon-guitareo:before {
+.icon-guitar:before {
     content: "\f129";
 }
-.icon-hammer:before {
+.icon-guitareo:before {
     content: "\f12a";
 }
-.icon-home:before {
+.icon-hammer:before {
     content: "\f12b";
 }
-.icon-info:before {
+.icon-home:before {
     content: "\f12c";
 }
-.icon-laptop:before {
+.icon-info:before {
     content: "\f12d";
 }
-.icon-learning-paths:before {
+.icon-laptop:before {
     content: "\f12e";
 }
-.icon-legacy:before {
+.icon-learning-paths:before {
     content: "\f12f";
 }
-.icon-library:before {
+.icon-legacy:before {
     content: "\f130";
 }
-.icon-live:before {
+.icon-library:before {
     content: "\f131";
 }
-.icon-loops:before {
+.icon-live:before {
     content: "\f132";
 }
-.icon-metronome-beep:before {
+.icon-loops:before {
     content: "\f133";
 }
-.icon-metronome:before {
+.icon-metronome-beep:before {
     content: "\f134";
 }
-.icon-minutes-practiced:before {
+.icon-metronome:before {
     content: "\f135";
 }
-.icon-my-list:before {
+.icon-minutes-practiced:before {
     content: "\f136";
 }
-.icon-new-window:before {
+.icon-my-list:before {
     content: "\f137";
 }
-.icon-notation-key:before {
+.icon-new-window:before {
     content: "\f138";
 }
-.icon-note:before {
+.icon-notation-key:before {
     content: "\f139";
 }
-.icon-notifications:before {
+.icon-note:before {
     content: "\f13a";
 }
-.icon-packs:before {
+.icon-notifications:before {
     content: "\f13b";
 }
-.icon-piano:before {
+.icon-packs:before {
     content: "\f13c";
 }
-.icon-pianote:before {
+.icon-piano:before {
     content: "\f13d";
 }
-.icon-play-alongs:before {
+.icon-pianote:before {
     content: "\f13e";
 }
-.icon-podcast:before {
+.icon-play-alongs:before {
     content: "\f13f";
 }
-.icon-print:before {
+.icon-podcast:before {
     content: "\f140";
 }
-.icon-recordeo:before {
+.icon-print:before {
     content: "\f141";
 }
-.icon-resources:before {
+.icon-recordeo:before {
     content: "\f142";
 }
-.icon-rudiments:before {
+.icon-resources:before {
     content: "\f143";
 }
-.icon-satellite:before {
+.icon-rudiments:before {
     content: "\f144";
 }
-.icon-schedule:before {
+.icon-satellite:before {
     content: "\f145";
 }
-.icon-search:before {
+.icon-schedule:before {
     content: "\f146";
 }
-.icon-shows:before {
+.icon-search:before {
     content: "\f147";
 }
-.icon-shows2:before {
+.icon-shows:before {
     content: "\f148";
 }
-.icon-songs:before {
+.icon-shows2:before {
     content: "\f149";
 }
-.icon-sort:before {
+.icon-songs:before {
     content: "\f14a";
 }
-.icon-stats:before {
+.icon-sort:before {
     content: "\f14b";
 }
-.icon-student-focus:before {
+.icon-stats:before {
     content: "\f14c";
 }
-.icon-student:before {
+.icon-student-focus:before {
     content: "\f14d";
 }
-.icon-teacher:before {
+.icon-student:before {
     content: "\f14e";
 }
-.icon-toolbox:before {
+.icon-teacher:before {
     content: "\f14f";
 }
-.icon-tools:before {
+.icon-toolbox:before {
     content: "\f150";
 }
-.icon-vocals:before {
+.icon-tools:before {
     content: "\f151";
 }
-.icon-wrench:before {
+.icon-vocals:before {
     content: "\f152";
+}
+.icon-wrench:before {
+    content: "\f153";
 }
