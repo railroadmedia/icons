@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?28b9a4cc8116a64c5667e2d7faa4776d?#iefix") format("embedded-opentype"),
-url("./icons.woff2?28b9a4cc8116a64c5667e2d7faa4776d") format("woff2"),
-url("./icons.woff?28b9a4cc8116a64c5667e2d7faa4776d") format("woff"),
-url("./icons.ttf?28b9a4cc8116a64c5667e2d7faa4776d") format("truetype"),
-url("./icons.svg?28b9a4cc8116a64c5667e2d7faa4776d#icons") format("svg");
+    src: url("./icons.eot?f41b91f2b176bee144da66bd188434cf?#iefix") format("embedded-opentype"),
+url("./icons.woff2?f41b91f2b176bee144da66bd188434cf") format("woff2"),
+url("./icons.woff?f41b91f2b176bee144da66bd188434cf") format("woff"),
+url("./icons.ttf?f41b91f2b176bee144da66bd188434cf") format("truetype"),
+url("./icons.svg?f41b91f2b176bee144da66bd188434cf#icons") format("svg");
 }
 
 i[class^="icon-"], i[class*=" icon-"] {
@@ -72,198 +72,207 @@ i[class^="icon-"], i[class*=" icon-"] {
 .icon-clock:before {
     content: "\f112";
 }
-.icon-comments-liked:before {
+.icon-coaches:before {
     content: "\f113";
 }
-.icon-courses:before {
+.icon-comments-liked:before {
     content: "\f114";
 }
-.icon-days-a-member:before {
+.icon-courses:before {
     content: "\f115";
 }
-.icon-dft:before {
+.icon-days-a-member:before {
     content: "\f116";
 }
-.icon-dictionary-drum-terms:before {
+.icon-dft:before {
     content: "\f117";
 }
-.icon-download:before {
+.icon-dictionary-drum-terms:before {
     content: "\f118";
 }
-.icon-drumeo-edge:before {
+.icon-download:before {
     content: "\f119";
 }
-.icon-drumeo-method:before {
+.icon-drumeo-edge:before {
     content: "\f11a";
 }
-.icon-drums:before {
+.icon-drumeo-method:before {
     content: "\f11b";
 }
-.icon-drums2:before {
+.icon-drums:before {
     content: "\f11c";
 }
-.icon-edit:before {
+.icon-drums2:before {
     content: "\f11d";
 }
-.icon-experience-points:before {
+.icon-edit:before {
     content: "\f11e";
 }
-.icon-faculty-teacher:before {
+.icon-experience-points:before {
     content: "\f11f";
 }
-.icon-forum:before {
+.icon-faculty-teacher:before {
     content: "\f120";
 }
-.icon-foundations:before {
+.icon-forum:before {
     content: "\f121";
 }
-.icon-free:before {
+.icon-foundations:before {
     content: "\f122";
 }
-.icon-fullscreen:before {
+.icon-free:before {
     content: "\f123";
 }
-.icon-gear:before {
+.icon-fullscreen:before {
     content: "\f124";
 }
-.icon-getting-started:before {
+.icon-gear:before {
     content: "\f125";
 }
-.icon-giveaways:before {
+.icon-getting-started:before {
     content: "\f126";
 }
-.icon-go-to:before {
+.icon-giveaways:before {
     content: "\f127";
 }
-.icon-grid:before {
+.icon-go-to:before {
     content: "\f128";
 }
-.icon-guitar:before {
+.icon-grid:before {
     content: "\f129";
 }
-.icon-guitareo:before {
+.icon-guitar:before {
     content: "\f12a";
 }
-.icon-hammer:before {
+.icon-guitareo:before {
     content: "\f12b";
 }
-.icon-home:before {
+.icon-hammer:before {
     content: "\f12c";
 }
-.icon-info:before {
+.icon-home:before {
     content: "\f12d";
 }
-.icon-laptop:before {
+.icon-info:before {
     content: "\f12e";
 }
-.icon-learning-paths:before {
+.icon-laptop:before {
     content: "\f12f";
 }
-.icon-legacy:before {
+.icon-learning-paths:before {
     content: "\f130";
 }
-.icon-library:before {
+.icon-legacy:before {
     content: "\f131";
 }
-.icon-live:before {
+.icon-library:before {
     content: "\f132";
 }
-.icon-loops:before {
+.icon-live:before {
     content: "\f133";
 }
-.icon-metronome-beep:before {
+.icon-loops:before {
     content: "\f134";
 }
-.icon-metronome:before {
+.icon-metronome-beep:before {
     content: "\f135";
 }
-.icon-minutes-practiced:before {
+.icon-metronome:before {
     content: "\f136";
 }
-.icon-my-list:before {
+.icon-minutes-practiced:before {
     content: "\f137";
 }
-.icon-new-window:before {
+.icon-my-list:before {
     content: "\f138";
 }
-.icon-notation-key:before {
+.icon-new-window:before {
     content: "\f139";
 }
-.icon-note:before {
+.icon-notation-key:before {
     content: "\f13a";
 }
-.icon-notifications:before {
+.icon-note:before {
     content: "\f13b";
 }
-.icon-packs:before {
+.icon-notifications:before {
     content: "\f13c";
 }
-.icon-piano:before {
+.icon-packs:before {
     content: "\f13d";
 }
-.icon-pianote:before {
+.icon-piano:before {
     content: "\f13e";
 }
-.icon-play-alongs:before {
+.icon-pianote:before {
     content: "\f13f";
 }
-.icon-podcast:before {
+.icon-play-alongs:before {
     content: "\f140";
 }
-.icon-print:before {
+.icon-podcast:before {
     content: "\f141";
 }
-.icon-recordeo:before {
+.icon-print:before {
     content: "\f142";
 }
-.icon-resources:before {
+.icon-quick-tips:before {
     content: "\f143";
 }
-.icon-rudiments:before {
+.icon-recordeo:before {
     content: "\f144";
 }
-.icon-satellite:before {
+.icon-resources:before {
     content: "\f145";
 }
-.icon-schedule:before {
+.icon-rudiments:before {
     content: "\f146";
 }
-.icon-search:before {
+.icon-satellite:before {
     content: "\f147";
 }
-.icon-shows:before {
+.icon-schedule:before {
     content: "\f148";
 }
-.icon-shows2:before {
+.icon-search:before {
     content: "\f149";
 }
-.icon-songs:before {
+.icon-shows:before {
     content: "\f14a";
 }
-.icon-sort:before {
+.icon-shows2:before {
     content: "\f14b";
 }
-.icon-stats:before {
+.icon-singeo:before {
     content: "\f14c";
 }
-.icon-student-focus:before {
+.icon-songs:before {
     content: "\f14d";
 }
-.icon-student:before {
+.icon-sort:before {
     content: "\f14e";
 }
-.icon-teacher:before {
+.icon-stats:before {
     content: "\f14f";
 }
-.icon-toolbox:before {
+.icon-student-focus:before {
     content: "\f150";
 }
-.icon-tools:before {
+.icon-student:before {
     content: "\f151";
 }
-.icon-vocals:before {
+.icon-teacher:before {
     content: "\f152";
 }
-.icon-wrench:before {
+.icon-toolbox:before {
     content: "\f153";
+}
+.icon-tools:before {
+    content: "\f154";
+}
+.icon-vocals:before {
+    content: "\f155";
+}
+.icon-wrench:before {
+    content: "\f156";
 }
